@@ -1,0 +1,5 @@
+package JAVACORE_TRAINING.STUDENT.NGUYENVANLINH;
+
+public class A {
+
+}
